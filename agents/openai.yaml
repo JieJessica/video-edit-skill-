@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Widescreen Highlight"
+  short_description: "Create 16:9 blurred-background video highlights"
+  default_prompt: "Use $make-widescreen-highlight to turn a vertical video into a 10-second 16:9 highlight with a blurred background."
